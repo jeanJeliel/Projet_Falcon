@@ -1,1 +1,2 @@
 # Projet_Falcon
+The project focuses on predicting the success of Falcon 9’s first-stage landings by analyzing historical launch data. SpaceX aims to reduce the cost of rocket launches by reusing the first stage, and understanding the factors that influence successful landings is crucial. By predicting landing success, we can provide insights into the efficiency of the rocket, help SpaceX optimize its operations, and offer valuable information to other companies considering launching with SpaceX.​
